@@ -1,9 +1,9 @@
-# RPG project :desktop_computer:
+# Tetris project :desktop_computer:
 
-## Done by Melissa, Maxime and Romain - Epitech 2022 :mortar_board:
+## Done by Melissa and Maxime - Epitech 2022 :mortar_board:
 
 This project is a part of the **first** year of Epitech. <br>
-We had **2 month** to complete it. :spiral_calendar: <br>
+We had **2 weeks** to complete it. :spiral_calendar: <br>
 
 The goal of this project is recreate a **Tetris game** in **C** with the **Ncurses library**. :video_game:<br>
 
