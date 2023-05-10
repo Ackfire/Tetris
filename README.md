@@ -24,7 +24,7 @@ The goal of this project was to recreate a **Tetris game** in **C** using the **
     -D --debug Debug mode (def: false)
 ```
 
-## Running the project locally
+### Running the project locally
 
 From the repo:
 
