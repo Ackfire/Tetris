@@ -46,5 +46,5 @@ Here are the different **tools** and **languages** we used to make this project:
 
 [![Main tools](https://skillicons.dev/icons?i=c,vscode,github,md&perline=9)](https://github.com/tandpfun/skill-icons)
 
-Here is the GitHub of the person who did the project with me :
-[Maxime Senard] (https://github.com/RedCommand)
+Here is the **GitHub** of the person who did the project with me :
+[Maxime Senard](https://github.com/RedCommand)
