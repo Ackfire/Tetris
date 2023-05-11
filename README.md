@@ -31,6 +31,10 @@ From the repo:
 - Clone this repostitory locally
 - Run `make` in your bash / command line
 - Run `./tetris <left-key-arrow> <right-key-arrow> <grop-key-arrow> <turn-key-arrow> <map-size>`
+<br>
+> **Warning**
+> Make sure the Ncurses library is installed or the program won't work.
+<br>
 
 To try this program, you can use this **command** that will put the direction arrows to play and a map size of 20 by 20: <br>
 
